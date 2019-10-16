@@ -1,12 +1,12 @@
 import React from 'react';
-function App() {
+function SignupPage() {
   return (
     <div className="jumbotron">
       <h1>
-        首页
+        22
       </h1>
     </div>
   );
 }
 
-export default App;
+export default SignupPage;
