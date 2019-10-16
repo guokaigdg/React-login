@@ -26,7 +26,7 @@
 nodemon是为了前端刷新时候实时刷新不用重启的一个配置</br>
 fork运行执行(立即执行) ...是ES6的展开运算符
 </br>
-![Image text](https://github.com/smileyqp/loginReactApp/blob/master/README_PIC/login.png)
+
 
 #### 1、在整个项目目录下</br>
 创建server和client两个包分别放置server和前端代码；</br>
