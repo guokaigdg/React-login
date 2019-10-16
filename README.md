@@ -10,6 +10,6 @@
 
 ###### 前端代码 -> client
 ###### 后端代码 -> server
-> express: 基于nodejs实现是后端框架,可实现后端代码,为前端提供API
-> babel: 解析 es6无法解析后端代码问题
+> express: 基于nodejs实现是后端框架,可实现后端代码,为前端提供API <br>
+> babel: 解析 es6无法解析后端代码问题<br>
 > route: 路由
