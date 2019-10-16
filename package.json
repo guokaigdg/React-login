@@ -1,0 +1,27 @@
+{
+  "name": "react-login",
+  "version": "1.0.0",
+  "description": "- 前端: React+ redux React + route 路由",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch server --exec babel-node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guokaigdg/React-login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guokaigdg/React-login/issues"
+  },
+  "homepage": "https://github.com/guokaigdg/React-login#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
