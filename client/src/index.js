@@ -19,6 +19,7 @@ import routes from './routes';
 // createStore接受reducer生成stote compose合并生成store其他数据 applyMiddleware接受thunk解决redux异步问题
 import { createStore, applyMiddleware } from 'redux'
 
+
 import roorReducer from './reducers';
 
 // Provider负责传递store
