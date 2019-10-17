@@ -1,4 +1,13 @@
 # React-login
+### 安装:
+> npm install
+ npm start
+ cd client
+ rm yarn.lock && yarn install
+ yarn start
+ createdb reduxlogin
+ knex migrate:latest
+
 - 前端: React+ redux React + route 路由
 
 - 后端: node.js
