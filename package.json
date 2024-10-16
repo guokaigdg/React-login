@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/guokaigdg/React-login#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.21.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
